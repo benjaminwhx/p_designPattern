@@ -1,8 +1,8 @@
-package com.jd.jr.dp.cretional.factoryMethodPattern.staticFactory;
+package com.jd.jr.dp.creational.factoryMethod.staticFactory;
 
-import com.jd.jr.dp.cretional.factoryMethodPattern.MailSender;
-import com.jd.jr.dp.cretional.factoryMethodPattern.Sender;
-import com.jd.jr.dp.cretional.factoryMethodPattern.SmsSender;
+import com.jd.jr.dp.creational.factoryMethod.MailSender;
+import com.jd.jr.dp.creational.factoryMethod.Sender;
+import com.jd.jr.dp.creational.factoryMethod.SmsSender;
 
 /**
  * User: 吴海旭

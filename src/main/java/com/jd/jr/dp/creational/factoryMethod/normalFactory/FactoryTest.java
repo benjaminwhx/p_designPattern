@@ -1,6 +1,6 @@
-package com.jd.jr.dp.cretional.factoryMethodPattern.normalFactory;
+package com.jd.jr.dp.creational.factoryMethod.normalFactory;
 
-import com.jd.jr.dp.cretional.factoryMethodPattern.Sender;
+import com.jd.jr.dp.creational.factoryMethod.Sender;
 
 /**
  * User: 吴海旭

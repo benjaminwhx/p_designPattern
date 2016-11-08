@@ -1,4 +1,4 @@
-package com.jd.jr.dp.cretional.factoryMethodPattern;
+package com.jd.jr.dp.creational.factoryMethod;
 
 /**
  * User: 吴海旭

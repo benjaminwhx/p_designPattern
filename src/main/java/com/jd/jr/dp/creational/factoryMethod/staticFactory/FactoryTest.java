@@ -1,6 +1,6 @@
-package com.jd.jr.dp.cretional.factoryMethodPattern.staticFactory;
+package com.jd.jr.dp.creational.factoryMethod.staticFactory;
 
-import com.jd.jr.dp.cretional.factoryMethodPattern.Sender;
+import com.jd.jr.dp.creational.factoryMethod.Sender;
 
 /**
  * User: 吴海旭
