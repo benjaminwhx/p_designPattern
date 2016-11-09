@@ -1,4 +1,4 @@
-package com.jd.jr.dp.creational.builder;
+package com.jd.jr.dp.creational.builder.builder1;
 
 /**
  * User: 吴海旭
