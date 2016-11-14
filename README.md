@@ -1,5 +1,5 @@
 # designPattern-example
-设计模式的一些例子
+关于设计模式学习积累的一些例子，是初学者及知识巩固的最佳实践。
 
 ## 设计模式的六大原则
 **1、开闭原则（Open Close Principle）**  
@@ -19,3 +19,30 @@
 
 **6、合成复用原则（Composite Reuse Principle）**  
 原则是尽量使用合成/聚合的方式，而不是使用继承。
+
+## 作者介绍
+源码地址：我的[Github地址](https://github.com/benjaminwhx)  
+作者：[吴海旭](http://benjaminwhx.com)
+
+## 项目结构
+```
+├── com
+├──────jd
+├────────jr
+├─────────dp
+├──────────behavioral  // 行为型模式
+├────────────strategy         // 策略模式
+├────────────templateMethod   // 模板方法模式
+├────────────README.md        // 行为型模式说明
+├──────────creational  // 创建型模式
+├────────────abstractFactory  //抽象工厂模式
+├────────────builder          // 建造者模式
+├────────────factoryMethod    // 工厂方法模式
+├────────────prototype        // 原型模式
+├────────────singleton        // 单例模式
+├────────────README.md        // 创建型模式说明
+├──────────structural  // 结构型模式
+├────────────README.md        // 结构性模式说明
+```
+
+> 未完待续...
