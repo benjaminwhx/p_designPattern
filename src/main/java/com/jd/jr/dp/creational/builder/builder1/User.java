@@ -67,6 +67,7 @@ public class User {
             return this;
         }
 
+        @Override
         public User build() {
             User user = new User(this);
             // 可以加一些校验

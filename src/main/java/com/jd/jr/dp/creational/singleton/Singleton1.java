@@ -6,7 +6,8 @@ package com.jd.jr.dp.creational.singleton;
  * Time: 下午5:12
  */
 public class Singleton1 {
-    private static Singleton1 instance = null;  // 懒汉
+    // 一定要加上volatile，防止重排序。
+    private static volatile Singleton1 instance = null;  // 懒汉
 
     private Singleton1(){}
 

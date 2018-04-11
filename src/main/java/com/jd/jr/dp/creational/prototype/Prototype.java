@@ -12,6 +12,7 @@ public abstract class Prototype implements Cloneable {
      * @return
      * @throws CloneNotSupportedException
      */
+    @Override
     public Object clone() throws CloneNotSupportedException {
         return super.clone();
     }

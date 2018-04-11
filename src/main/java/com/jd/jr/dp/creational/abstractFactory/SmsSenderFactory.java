@@ -10,6 +10,7 @@ import com.jd.jr.dp.creational.factoryMethod.SmsSender;
  */
 public class SmsSenderFactory implements Provider {
 
+    @Override
     public Sender produce() {
         return new SmsSender();
     }

@@ -10,6 +10,7 @@ import com.jd.jr.dp.creational.factoryMethod.Sender;
  */
 public class MailSenderFactory implements Provider {
 
+    @Override
     public Sender produce() {
         return new MailSender();
     }
